@@ -31,5 +31,6 @@
 - All UI components must be implemented using `shadcn/ui`. For any modifications, maintain the components' accessibility and design consistency.
 
 ## Rules for file organization
-- All new components should be placed in the `/components/ui` folder and named in a consistent format.
+- All new components should be placed in the `/components` folder and named in a consistent format.
+    - All new shadcn/ui components should be placed in the `/components/ui` sub folder.
 - All pages should be placed in the `/app` folder.
